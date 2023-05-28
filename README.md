@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nanya</h1>
 <h3 align="center">A student from Japan</h3>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NanyaTK)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NanyaTK&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 (https://github-readme-stats.vercel.app/api/top-langs/?username=NanyaTK&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/NanyaTK/github-readme-stats)
 
 <h3 align="left">Connect with me:</h3>
