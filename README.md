@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nanya</h1>
 <h3 align="center">A student from Japan</h3>
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=NanyaTK&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NanyaTK&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=NanyaTK&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NanyaTK&layout=compact&theme=transparent&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 <h3 align="left">Connect with me:</h3>
